@@ -12,4 +12,13 @@
  *
  *= require_tree .
  *= require_self
+
+ *= require assets/css/style
+
+  *= require bootstrap/css/bootstrap.min
+  *= require icofont/icofont.min
+  *= require remixicon/remixicon
+  *= require owl.carousel/assets/owl.carousel.min
+  *= require boxicons/css/boxicons.min
+  *= require venobox/venobox
  */

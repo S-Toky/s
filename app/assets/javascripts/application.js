@@ -10,7 +10,19 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
+//= require jquery
 //= require rails-ujs
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+
+//= require assets/js/main
+//= require jquery/jquery.min
+//= require bootstrap/js/bootstrap.bundle.min
+//= require jquery.easing/jquery.easing.min
+//= require php-email-form/validate
+//= require waypoints/jquery.waypoints.min
+//= require counterup/counterup.min
+//= require owl.carousel/owl.carousel.min
+//= require isotope-layout/isotope.pkgd.min
+//= require venobox/venobox.min
